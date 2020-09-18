@@ -1,0 +1,9 @@
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\bin\Debug\netcoreapp3.1\SignalIR.Common.deps.json
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\bin\Debug\netcoreapp3.1\SignalIR.Common.dll
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\bin\Debug\netcoreapp3.1\SignalIR.Common.pdb
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\obj\Debug\netcoreapp3.1\SignalIR.Common.csprojAssemblyReference.cache
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\obj\Debug\netcoreapp3.1\SignalIR.Common.AssemblyInfoInputs.cache
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\obj\Debug\netcoreapp3.1\SignalIR.Common.AssemblyInfo.cs
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\obj\Debug\netcoreapp3.1\SignalIR.Common.csproj.CoreCompileInputs.cache
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\obj\Debug\netcoreapp3.1\SignalIR.Common.dll
+D:\LEARN\NET.CORE\SignalIR\SignalIR.Common\obj\Debug\netcoreapp3.1\SignalIR.Common.pdb

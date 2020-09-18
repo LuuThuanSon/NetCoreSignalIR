@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SignalIR.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SignalIR.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SignalIR.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SignalIR.Common/1.0.0": {
+      "type": "project",
+      "path": "../SignalIR.Common/SignalIR.Common.csproj",
+      "msbuildProject": "../SignalIR.Common/SignalIR.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SignalIR.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SON-PC\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\LEARN\\NET.CORE\\SignalIR\\SignalIR.Server\\SignalIR.Server.csproj",
+      "projectName": "SignalIR.Server",
+      "projectPath": "D:\\LEARN\\NET.CORE\\SignalIR\\SignalIR.Server\\SignalIR.Server.csproj",
+      "packagesPath": "C:\\Users\\SON-PC\\.nuget\\packages\\",
+      "outputPath": "D:\\LEARN\\NET.CORE\\SignalIR\\SignalIR.Server\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SON-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\LEARN\\NET.CORE\\SignalIR\\SignalIR.Common\\SignalIR.Common.csproj": {
+              "projectPath": "D:\\LEARN\\NET.CORE\\SignalIR\\SignalIR.Common\\SignalIR.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
